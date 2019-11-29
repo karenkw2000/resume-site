@@ -2,7 +2,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 80% 10%;
-    background-image: url("karenwuwebimage.JPG");
+    background-image: url("../karenwuwebimage.jpg");
     background-attachment: fixed;
 }
 
