@@ -1,3 +1,9 @@
+#nav_menu{
+    background-color: black;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .footer {
     position: fixed;
     left: 0;
